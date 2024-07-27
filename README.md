@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RCPawn
+- 👋 Hi, I’m @rcpawn
 - 👀 I’m interested in java and vue
 - 🌱 I’m currently learning javaweb and vue3
 - 💞️ I’m looking to collaborate on resource of java learning 
