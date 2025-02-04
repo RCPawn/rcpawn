@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @rcpawn
-- 👀 I’m interested in java and vue
-- 🌱 I’m currently learning javaweb and vue3
-- 💞️ I’m looking to collaborate on resource of java learning 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @rcpawn
+## Full-stack Developer | Unity & Blender Enthusiast | 3D & Interactive Design Lover
 
-<!---
-RCPawn/RCPawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently exploring Unity and Blender for creating interactive 3D experiences.  
+💻 Passionate about building both front-end and back-end solutions.  
+⚡ Fun fact: Always looking for new ways to bring creativity into tech!
+
+📫 You can reach me at my websit: www.rcpawn.com
