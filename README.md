@@ -23,7 +23,7 @@
 - **持续学习:** 通过 YouTube 技术频道课程不断提升自己的技能 🎓
 - **兴趣爱好:** 篮球爱好者 🏀 英文歌曲发烧友 🎵  
 
-### 📫 联系我
+### 📫 关于我
 - GitHub: [@rcpawn](https://github.com/RCPawn)
 - Douyin: [@过河卒](https://www.douyin.com/user/self?from_tab_name=main)
 - QQMusic: [@过河卒](https://y.qq.com/n/ryqq/playlist/9402477890)
@@ -58,7 +58,7 @@ A passionate software engineering student (3rd year) dedicated to blending creat
 - **Continuous Learning:** Constantly upgrading skills through YouTube technical channels 🎓
 - **Hobbies:** Basketball enthusiast 🏀 and English music lover 🎵  
 
-### 📫 Connect With Me  
+### 📫 About Me  
 - GitHub: [@rcpawn](https://github.com/RCPawn)
 - Douyin: [@过河卒](https://www.douyin.com/user/self?from_tab_name=main)
 - QQMusic: [@过河卒](https://y.qq.com/n/ryqq/playlist/9402477890)
