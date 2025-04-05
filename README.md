@@ -24,10 +24,10 @@
 - **兴趣爱好:** 篮球爱好者 🏀 英文歌曲发烧友 🎵  
 
 ### 📫 联系我  
-- 💻 GitHub: [@rcpawn](https://github.com/RCPawn)
-- 📱 抖音: [@rcpawn](https://www.douyin.com/user/self?from_tab_name=main)
-- 🎵 QQ音乐: [我的音乐](https://y.qq.com/n/ryqq/playlist/9402477890)
-- 🌐 个人网站: [简历冒险](https://resume-adventure.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-@rcpawn-181717?style=flat-square&logo=github)](https://github.com/RCPawn) 
+[![Tiktok](https://img.shields.io/badge/Douyin-@rcpawn-000000?style=flat-square&logo=tiktok)](https://www.douyin.com/user/self?from_tab_name=main) 
+[![Music](https://img.shields.io/badge/Playlist-My%20Music-FF0000?style=flat-square&logo=youtube-music)](https://y.qq.com/n/ryqq/playlist/9402477890) 
+[![Website](https://img.shields.io/badge/Website-Resume%20Adventure-4285F4?style=flat-square&logo=google-chrome)](https://resume-adventure.netlify.app)
 
 让我们一起创新，打造惊艳的数字体验！😊
 
@@ -60,7 +60,7 @@ A passionate software engineering student (3rd year) dedicated to blending creat
 
 ### 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-@rcpawn-181717?style=flat-square&logo=github)](https://github.com/RCPawn) 
-[![Douyin](https://img.shields.io/badge/Douyin-@rcpawn-000000?style=flat-square&logo=tiktok)](https://www.douyin.com/user/self?from_tab_name=main) 
+[![Tiktok](https://img.shields.io/badge/Douyin-@rcpawn-000000?style=flat-square&logo=tiktok)](https://www.douyin.com/user/self?from_tab_name=main) 
 [![Music](https://img.shields.io/badge/Playlist-My%20Music-FF0000?style=flat-square&logo=youtube-music)](https://y.qq.com/n/ryqq/playlist/9402477890) 
 [![Website](https://img.shields.io/badge/Website-Resume%20Adventure-4285F4?style=flat-square&logo=google-chrome)](https://resume-adventure.netlify.app)
 
