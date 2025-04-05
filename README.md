@@ -23,29 +23,11 @@
 - **持续学习:** 通过 YouTube 技术频道课程不断提升自己的技能 🎓
 - **兴趣爱好:** 篮球爱好者 🏀 英文歌曲发烧友 🎵  
 
-### 📫 Connect With Me
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/RCPawn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@rcpawn-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.douyin.com/user/self?from_tab_name=main" target="_blank">
-    <img src="https://img.shields.io/badge/Douyin-@rcpawn-000000?style=for-the-badge&logo=tiktok" alt="Douyin" />
-  </a>
-  <a href="https://y.qq.com/n/ryqq/playlist/9402477890" target="_blank">
-    <img src="https://img.shields.io/badge/QQ Music-My Playlist-FF0000?style=for-the-badge&logo=tencentqq" alt="QQ Music" />
-  </a>
-  <a href="https://resume-adventure.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Resume Adventure-4285F4?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a>
-</div>
-
-Or if you prefer a more straightforward but still visual approach:
-
-### 📫 Find Me Online
-- [<img src="https://github.com/fluidicon.png" alt="GitHub" width="20"/> **GitHub: @rcpawn**](https://github.com/RCPawn)
-- [<img src="https://sf16-scmcdn-sg.ibytedance.com/obj/goofy-sg/douyin/favicon.ico" alt="Douyin" width="20"/> **抖音: @rcpawn**](https://www.douyin.com/user/self?from_tab_name=main)
-- [<img src="https://y.qq.com/favicon.ico" alt="QQ Music" width="20"/> **QQ Music: My Playlist**](https://y.qq.com/n/ryqq/playlist/9402477890)
-- [<img src="https://cdn-icons-png.flaticon.com/512/888/888846.png" alt="Website" width="20"/> **Portfolio: Resume Adventure**](https://resume-adventure.netlify.app)
+### 📫 联系我
+- GitHub: [@rcpawn](https://github.com/RCPawn)
+- Douyin: [@过河卒](https://www.douyin.com/user/self?from_tab_name=main)
+- QQMusic: [@过河卒](https://y.qq.com/n/ryqq/playlist/9402477890)
+- Portfolio: [@过河卒](https://resume-adventure.netlify.app)
 
 让我们一起创新，打造惊艳的数字体验！😊
 
@@ -77,9 +59,9 @@ A passionate software engineering student (3rd year) dedicated to blending creat
 - **Hobbies:** Basketball enthusiast 🏀 and English music lover 🎵  
 
 ### 📫 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-@rcpawn-181717?style=flat-square&logo=github)](https://github.com/RCPawn) 
-[![Tiktok](https://img.shields.io/badge/Douyin-@rcpawn-000000?style=flat-square&logo=tiktok)](https://www.douyin.com/user/self?from_tab_name=main) 
-[![Music](https://img.shields.io/badge/Playlist-My%20Music-FF0000?style=flat-square&logo=youtube-music)](https://y.qq.com/n/ryqq/playlist/9402477890) 
-[![Website](https://img.shields.io/badge/Website-Resume%20Adventure-4285F4?style=flat-square&logo=google-chrome)](https://resume-adventure.netlify.app)
+- GitHub: [@rcpawn](https://github.com/RCPawn)
+- Douyin: [@过河卒](https://www.douyin.com/user/self?from_tab_name=main)
+- QQMusic: [@过河卒](https://y.qq.com/n/ryqq/playlist/9402477890)
+- Portfolio: [@过河卒](https://resume-adventure.netlify.app)
 
 Let's innovate together and create amazing digital experiences! 😊
