@@ -32,7 +32,7 @@
 
 ### 🏆 精选项目 (Featured Projects)
 
-#### 🛡️ [Microservice-Gateway-Platform](https://github.com/RCPawn/api-gateway) (置顶推荐)
+#### 🛡️ [Microservice-Gateway-Platform](https://github.com/RCPawn/api-gateway) 
 > **基于 Spring Cloud Gateway + Nacos + Sentinel 的生产级微服务流量治理平台**
 *   **核心难点：** 实现了 **ThreadLocal 全链路 Token 透传**，解决了微服务异步调用中的身份丢失问题。
 *   **亮点功能：** 支持 **动态路由热更新**（秒级生效）、Sentinel 流量整形、网关层统一文档聚合。
