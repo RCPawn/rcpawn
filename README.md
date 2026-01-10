@@ -1,67 +1,58 @@
-# 👋 你好，我是 @rcpawn
-## 💻 全栈开发者 | 🌐 深度学习爱好者 | 🎨 3D与交互设计爱好者
+# 👋 你好，我是 @RCPawn
 
-一名对技术充满热情的软件工程专业学生（大三在读），致力于将创意与技术融合，打造惊艳的数字体验 🚀 
+## ☕ Java 后端开发者 | 🎨 全栈实践者
 
-### 🚀 我的技能
-- **Web开发**  
-  - **后端:** Java (Spring, SpringMVC, SpringBoot, MyBatis), MySQL, Redis 💡
-  - **前端:** Vue3, Element UI, Node.js 🎨
-- **算法与数据结构**  
-  - 通过在线编程平台积极提升解决问题的能力 🧩  
-  - 探索算法和优化技术在实际应用中的实现 🔍
-- **Python学习之旅**  
-  - 为数据分析和自动化构建扎实的 Python 基础 🐍  
-  - 深入学习机器学习库和框架，拓展AI能力 🤖
-
-### 🌱 当前探索
-- **后端开发:** 深入学习后端开发 🚀  
-- **人工智能:** 探索 Python 进行数据分析和初步机器学习项目 🤖  
-- **开源社区:** 积极在 GitHub 上记录自己的足迹并从全球优秀项目中学习专业知识 🌍
-
-### 🌟 我的爱好
-- **持续学习:** 通过 YouTube 技术频道课程不断提升自己的技能 🎓
-- **兴趣爱好:** 篮球爱好者 🏀 英文歌曲发烧友 🎵  
-
-### 📫 关于我
-- GitHub: [@rcpawn](https://github.com/RCPawn)
-- Douyin: [@过河卒](https://www.douyin.com/user/self?from_tab_name=main)
-- QQMusic: [@过河卒](https://y.qq.com/n/ryqq/playlist/9402477890)
-- Portfolio: [@过河卒](https://resume-adventure.netlify.app)
-
-让我们一起创新，打造惊艳的数字体验！😊
+🎓 **2026届 软件工程专业**
+📍 **求职意向：** Java 后端开发 / 全栈开发
+🚀 **核心竞争力：** 具备从架构设计到部署落地的全链路工程能力，热衷于造轮子与性能调优。
 
 ---
 
-# 👋 Hi, I'm @rcpawn
-## 💻 Full-stack Developer | 🌐 Deep Learning Enthusiast | 🎨 3D & Interactive Design Lover
+### 🛠️ 技术栈 (Tech Stack)
 
-A passionate software engineering student (3rd year) dedicated to blending creativity and technology to create stunning digital experiences 🚀
+*   **核心后端:** Java 8/17, Spring Boot 3, Spring Cloud Alibaba (Nacos, Sentinel, Gateway, OpenFeign)
+*   **中间件 & 数据库:** MySQL (调优/索引), Redis (缓存/分布式锁)
+*   **前端 & 可视化:** Vue 3, Element Plus, JavaScript, ECharts, WebGL
+*   **DevOps & 工具:** Git, Maven, Knife4j
 
-### 🚀 My Skills
-- **Web Development**  
-  - **Backend:** Java (Spring, SpringMVC, SpringBoot, MyBatis), MySQL, Redis 💡
-  - **Frontend:** Vue3, Element UI, Node.js 🎨
-- **Algorithm & Data Structures**  
-  - Actively improving problem-solving abilities through online coding platforms 🧩  
-  - Exploring algorithms and optimization techniques in practical applications 🔍
-- **Python Journey**  
-  - Building solid Python foundations for data analysis and automation 🐍  
-  - Diving into machine learning libraries and frameworks to expand AI capabilities 🤖
+---
 
-### 🌱 Current Explorations
-- **Backend Development:** Deepening knowledge in backend technologies 🚀  
-- **Artificial Intelligence:** Exploring Python for data analysis and initial machine learning projects 🤖  
-- **Open-Source Community:** Actively documenting my journey on GitHub and learning from global projects 🌍
+### 🏆 精选项目 (Featured Projects)
 
-### 🌟 Personal Interests
-- **Continuous Learning:** Constantly upgrading skills through YouTube technical channels 🎓
-- **Hobbies:** Basketball enthusiast 🏀 and English music lover 🎵  
+#### 🛡️ [Microservice-Gateway-Platform](https://github.com/RCPawn/api-gateway) (置顶推荐)
+> **基于 Spring Cloud Gateway + Nacos + Sentinel 的生产级微服务流量治理平台**
+*   **核心难点：** 实现了 **ThreadLocal 全链路 Token 透传**，解决了微服务异步调用中的身份丢失问题。
+*   **亮点功能：** 支持 **动态路由热更新**（秒级生效）、Sentinel 流量整形、网关层统一文档聚合。
+*   **技术架构：** 采用响应式编程模型 (Reactor)，具备高并发处理能力。
 
-### 📫 About Me  
-- GitHub: [@rcpawn](https://github.com/RCPawn)
-- Douyin: [@过河卒](https://www.douyin.com/user/self?from_tab_name=main)
-- QQMusic: [@过河卒](https://y.qq.com/n/ryqq/playlist/9402477890)
-- Portfolio: [@过河卒](https://resume-adventure.netlify.app)
+#### 🎨 [Non-Heritage-Exhibition-3D](https://github.com/RCPawn/exhibition)
+> **基于 WebGL 与 Vue3 的非遗文化 3D 交互展示平台**
+*   **全栈落地：** 独立完成从数据库设计、后端 API 到前端 3D 场景渲染的全栈开发。
+*   **性能优化：** 设计了分层缓存架构与前端组件懒加载机制，显著提升首屏加载速度。
 
-Let's innovate together and create amazing digital experiences! 😊
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RCPawn&show_icons=true&theme=tokyonight&hide=contribs,issues" alt="RCPawn's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCPawn&layout=compact&theme=tokyonight&hide=python,html,css" alt="Top Langs" />
+</div>
+
+---
+
+### 🌱 技术信仰
+*   **Less is More:** 追求代码的简洁与可维护性，拒绝过度设计。
+*   **Deep Dive:** 不满足于 API 调用，坚持阅读源码（Spring, Dubbo）探究底层原理。
+*   **Keep Coding:** 保持对新技术的敏锐度，长期活跃于技术社区。
+
+---
+
+### 📫 联系我 (Contact Me)
+*   💻 **个人博客 / 作品集:** [resume-adventure.netlify.app](https://resume-adventure.netlify.app)
+*   🐙 **GitHub:** [@RCPawn](https://github.com/RCPawn)
+*   📧 **Email:** shangxi0275@163.com
+
+<!-- 
+Let's innovate together and create amazing digital experiences! 
+-->
