@@ -46,7 +46,7 @@
 ---
 
 ### 📫 联系我 (Contact Me)
-*   💻 **个人博客:** [resume-adventure.netlify.app](https://resume-adventure.netlify.app)
+*   💻 **个人博客:** [rcpawn.netlify.app](https://resume-adventure.netlify.app)
 *   🐙 **GitHub:** [@RCPawn](https://github.com/RCPawn)
 *   📧 **Email:** shangxi0275@163.com
 
